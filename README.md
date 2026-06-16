@@ -2,7 +2,7 @@
 
 > A curated list of research, tools, and standards for **Automated Operational Grounding Construction (AOGC)** — using LLMs to build and maintain the structured layer that connects enterprise schemas, constraints, actions, policies, and versions to agent behavior.
 
-Companion to the survey *Scaling Enterprise Agent Deployment: A Survey of LLM-Based Operational Grounding Construction* (Bai et al., 2026). The survey codes **32 core LLM construction methods**, **5 supporting validators/representations**, and **1 adjacent enterprise-agent architecture** across five functional dimensions and three autonomy tiers.
+Companion to the survey [Scaling Enterprise Agent Deployment: A Survey of LLM-Based Operational Grounding Construction](https://github.com/HKBU-KnowComp/awesome-operational-grounding/blob/main/survey_paper.pdf) (Bai et al., 2026). The survey codes **32 core LLM construction methods**, **5 supporting validators/representations**, and **1 adjacent enterprise-agent architecture** across five functional dimensions and three autonomy tiers.
 
 ## Contents
 
@@ -40,7 +40,7 @@ Enterprise LLM agents need more than a vocabulary. They need a linked **operatio
 
 ## Survey & nearby surveys
 
-- *Scaling Enterprise Agent Deployment: A Survey of LLM-Based Operational Grounding Construction* (Bai et al., 2026) — Defines AOGC, the five-dimension framework, three-tier autonomy taxonomy, coded evidence map (32 core methods), and realism-gap analysis. **Primary reference for this list.**
+- [Scaling Enterprise Agent Deployment: A Survey of LLM-Based Operational Grounding Construction](https://github.com/HKBU-KnowComp/awesome-operational-grounding/blob/main/survey_paper.pdf) (Bai et al., 2026) — Defines AOGC, the five-dimension framework, three-tier autonomy taxonomy, coded evidence map (32 core methods), and realism-gap analysis. **Primary reference for this list.**
 - [LLMs for Ontology Engineering: A Landscape of Tasks and Benchmarking Challenges](https://ceur-ws.org/Vol-3953/) (Garijo et al., 2024) — Ontology-engineering task landscape; broader than enterprise agent grounding ([paper PDF](https://ceur-ws.org/Vol-3953/364.pdf)).
 - [Large Language Models for Ontology Engineering: A Systematic Literature Review](https://content.iospress.com/articles/semantic-web/sw240001) (Li et al., 2025) — Systematic review of LLM ontology engineering.
 - [LLM-Empowered Knowledge Graph Construction: A Survey](https://arxiv.org/abs/2510.20345) (Bian, 2025) — KG construction survey; instance population focus rather than schema-level grounding.
